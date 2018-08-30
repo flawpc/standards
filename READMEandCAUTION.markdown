@@ -75,3 +75,10 @@ process move forward.
 By creating this forum, we hope that we give voice to the millions of
 web developers deeply invested in the process but without a natural way
 to aggregate their concerns.
+
+
+
+
+
+
+PLEASE NOTE: SOME DATA, THE EXTENT TO WHICH UNKNOWN, MAY BE SUBJECT RIGHTS, RESTRICTIONS, OR OTHER INTERESTS OF OTHERS. SINCE THE EXTENT TO WHICH THIS APPLIES IS CURRENTLY UNKNOWN, ONE SHOULD SAFELY ASSUME, AT LEAST AT THIS TIME, THAT NONE OF THE DATA CAN BE COPIED OR USED IN ANY WAY.
